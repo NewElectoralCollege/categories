@@ -69,8 +69,3 @@ This program was written, compiled, and tested using the following:
 - [VSCode](https://code.visualstudio.com/)
 - CMake version 3.20.0
 - json-c version 0.16
-
-# Helpful Links
-
-- [New Electoral College](https://newelectoralcollege.com)
--
