@@ -40,7 +40,7 @@ int main(int argc, char **argv) {
                    DEFAULT_SVG_DIR, DEFAULT_OUTPUT_PATH);
 
         } else if (cmp_arg(arg, "--version")) {
-            printf("%s\n", VERSION);
+            printf("Version: %s\n", VERSION);
 
         } else if (cmp_arg(arg, "--json-file-buffer-size")) {
             json_file_buffer_size = atoi(value);
