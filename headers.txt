@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="593"><title>2020 US presidential election results</title><defs><style xmlns="http://www.w3.org/2000/svg" type="text/css">.state { fill: #dddddd; }
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="593"><title>Categories under The New Electoral College</title><defs><style xmlns="http://www.w3.org/2000/svg" type="text/css">.state { fill: #dddddd; }
