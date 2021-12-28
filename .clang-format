@@ -1,0 +1,6 @@
+BreakBeforeBraces: Attach
+IndentWidth: 4
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: false
+BreakBeforeBinaryOperators: None
+IndentPPDirectives: AfterHash
